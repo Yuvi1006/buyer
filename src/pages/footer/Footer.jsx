@@ -11,7 +11,7 @@ export const Footer = () => {
         <Box h={'300px'} bg={'black'} color={'white'} mt={'40px'}>
 
             <Center h={'80px'}>
-                <Text className="typeWritertheme">Made with <Icon as={FcLike} /> by Mohit Sehrawat</Text>
+                <Text className="typeWritertheme">Made with <Icon as={FcLike} /> by Yuvraj Singh</Text>
             </Center>
 
             <Grid
