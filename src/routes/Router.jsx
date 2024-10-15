@@ -12,7 +12,6 @@ import { Order } from "../pages/orders/Order";
 import { Products } from "../pages/products/Products";
 import { Private } from "./Private";
 import { Public } from "./Public";
-import React from 'react'
 
 
 export const Router = () => {
