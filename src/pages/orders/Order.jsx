@@ -10,6 +10,7 @@ import axios from "axios";
 import { OrderSection } from "../../components/orders/OrderSection";
 import { dateFormator } from "../../utils/dateFormator";
 
+import React from 'react'
 
 export const Order = () => {
 

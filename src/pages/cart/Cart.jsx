@@ -1,6 +1,7 @@
 import { Box } from "@chakra-ui/react";
 import { BagItems } from "../../components/cart/BagItems";
 import { OrderSummary } from "../../components/cart/OrderSummary";
+import React from 'react'
 
 export const Cart = () => {
 

@@ -2,6 +2,7 @@ import { Divider, Drawer, DrawerBody, DrawerCloseButton, DrawerContent, DrawerFo
 import { useSelector } from "react-redux";
 import { BiMenu } from "react-icons/bi";
 import { DrawerCategory } from "./CategoryAndIcon";
+import React from 'react'
 
 
 export const SideDrawer = ({ handlePath }) => {

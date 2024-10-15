@@ -10,6 +10,7 @@ import { Logout } from "../../components/auth/Logout";
 import { DarkModeBtn } from "../../components/darkmode/DarkModeBtn";
 import { Category, NavIcon } from "../../components/navbar/CategoryAndIcon";
 import { SideDrawer } from "../../components/navbar/SideDrawer";
+import React from 'react'
 
 
 export const Navbar = () => {

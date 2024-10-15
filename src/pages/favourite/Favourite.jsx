@@ -6,6 +6,7 @@ import { Error } from "../../components/loading/Error";
 import { Loading } from "../../components/loading/Loading";
 import { getFavouriteRequest } from "../../redux/features/favourite/actions";
 
+import React from 'react'
 
 export const Favourite = () => {
 

@@ -4,6 +4,8 @@ import { showLoginPage } from "../../redux/features/auth/actions";
 import { LoginForm } from "../../components/auth/LoginForm";
 import { ResetForm } from "../../components/auth/ResetForm";
 import { SignupForm } from "../../components/auth/SignupForm";
+import React from 'react'
+
 
 export const AuthPage = () => {
 

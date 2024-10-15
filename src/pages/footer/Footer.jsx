@@ -3,6 +3,7 @@ import { FaLinkedin, FaGithub } from 'react-icons/fa';
 import { MdOutlinePersonPin } from 'react-icons/md';
 import { FcLike } from "react-icons/fc";
 import { IconLink } from "../../components/footer/IconLink";
+import React from 'react'
 
 export const Footer = () => {
 

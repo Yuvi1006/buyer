@@ -1,3 +1,4 @@
+import React from 'react'
 import { Route, Routes } from "react-router-dom";
 import { AuthPage } from "../pages/auth/AuthPage";
 import { Cart } from "../pages/cart/Cart";
@@ -11,6 +12,8 @@ import { Order } from "../pages/orders/Order";
 import { Products } from "../pages/products/Products";
 import { Private } from "./Private";
 import { Public } from "./Public";
+import React from 'react'
+
 
 export const Router = () => {
 

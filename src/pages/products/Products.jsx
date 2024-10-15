@@ -11,6 +11,7 @@ import { getItemSession, setItemSession } from "../../utils/sessionStorage";
 import { ProductDisplayBox } from "../../components/products/ProductDisplayBox";
 import { Loading } from "../../components/loading/Loading";
 import { Error } from "../../components/loading/Error";
+import React from 'react'
 
 
 export const Products = () => {

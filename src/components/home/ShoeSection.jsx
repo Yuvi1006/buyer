@@ -1,6 +1,7 @@
 import { Box, Grid } from "@chakra-ui/react";
 import { BigGridBox, SmallGridBox } from "./GridBox";
 import { HomeDescText, HomeText } from "./HomeText";
+import React from 'react'
 
 
 export const ShoeSection = ({ heading, description, img, gender, handleSection }) => {

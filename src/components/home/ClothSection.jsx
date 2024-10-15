@@ -1,6 +1,7 @@
 import { Box, Grid } from "@chakra-ui/react";
 import { ClothGridBox } from "./GridBox";
 import { HomeDescText, HomeText } from "./HomeText";
+import React from 'react'
 
 
 export const ClothSection = ({ heading, description, img, gender, handleSection }) => {

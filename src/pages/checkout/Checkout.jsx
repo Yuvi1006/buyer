@@ -7,8 +7,9 @@ import { shallowEqual, useDispatch, useSelector } from 'react-redux';
 import { initPayment } from "../payment/razorpay";
 import { useState } from "react";
 import axios from "axios";
-import { updateCartDetails } from "../../redux/features/cart/actions";
+import React from 'react'
 import { useNavigate } from "react-router-dom";
+import { updateCartDetails } from "../../redux/features/cart/actions";
 
 
 export const Checkout = () => {

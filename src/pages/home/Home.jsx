@@ -8,6 +8,7 @@ import { Loading } from "../../components/loading/Loading.jsx";
 import { getClothData, getShoeData } from "../../redux/features/home/actions.js";
 import { setNavbarPath } from "../../redux/features/path/actions.js";
 import { setItemSession } from "../../utils/sessionStorage.js";
+import React from 'react'
 
 
 export const Home = () => {

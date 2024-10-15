@@ -1,5 +1,6 @@
 import { Icon, useColorMode } from "@chakra-ui/react";
 import { FaSun, FaMoon } from "react-icons/fa";
+import React from 'react'
 
 
 export const DarkModeBtn = () => {

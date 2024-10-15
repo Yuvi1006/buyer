@@ -9,6 +9,7 @@ import { addToCartRequest } from "../../redux/features/cart/actions";
 import { useState } from "react";
 import { addToFavouriteRequest } from "../../redux/features/favourite/actions";
 import { useNavigate } from "react-router-dom";
+import React from 'react'
 
 
 export const Description = () => {

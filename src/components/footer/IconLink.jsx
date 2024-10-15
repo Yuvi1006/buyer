@@ -1,4 +1,5 @@
 import { Icon, Link } from "@chakra-ui/react";
+import React from 'react'
 
 export const IconLink = ({ link, icon }) => {
     return (
