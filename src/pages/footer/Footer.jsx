@@ -64,11 +64,11 @@ export const Footer = () => {
                     />
                     <IconLink
                         icon={FaGithub}
-                        link={"https://github.com/m-sehrawat/"}
+                        link={"https://github.com/Yuvi1006/"}
                     />
                     <IconLink
                         icon={FaLinkedin}
-                        link={"https://www.linkedin.com/in/mohitsehrawat/"}
+                        link={"https://www.linkedin.com/in/yuvrajsingh1623/"}
                     />
                 </Flex>
 
