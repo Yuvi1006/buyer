@@ -59,10 +59,6 @@ export const Footer = () => {
                     mr={['0px', '30px', '80px', '80px', '80px']}
                 >
                     <IconLink
-                        icon={MdOutlinePersonPin}
-                        link={"https://mohit-portfolio.vercel.app/"}
-                    />
-                    <IconLink
                         icon={FaGithub}
                         link={"https://github.com/Yuvi1006/"}
                     />
